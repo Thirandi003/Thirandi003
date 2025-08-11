@@ -33,27 +33,27 @@
 ### ☕ Smart Brew – Online Coffee Shop App  
 📌 UI/UX Design using **Figma**  
 🛒 Features include add-to-cart, payment flow, and onboarding screens  
-🔗 [View Project](https://www.figma.com) *(Add your real link)*  
+🔗 [View Project](https://www.figma.com/design/blhXzRs7a2OoBCuYDWZYHI/Untitled?node-id=0-1&t=zofYX0YJGpwvFePW-1)   
 
 ### 🏋 Fit-Gain Gym Equipment & Nutritional Store – MERN Stack App  
 📌 Roles: **User Management & Project Motivation**  
 🔗 *(Add GitHub repo link)*  
 
-### 💰 Personal Finance Tracker – Kotlin App  
+### 💰 Personal Finance Tracker – Android Studio App  
 📌 Tracks income, expenses, and savings goals  
 🔗 *(Add GitHub repo link)*  
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thirandi003&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thirandi003&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/thirandi-adikaram-a61615364)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](thirandiadikaram@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
 
 ---
