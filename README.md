@@ -50,4 +50,16 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/a)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thirandi003&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thirandi003&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirandi-adikaram-a61615364)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thirandiadikaram@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
+
+---
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."*  
