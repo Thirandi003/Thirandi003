@@ -1,5 +1,6 @@
 <p align="center">
-  #👋 Hi, I'm Thirandi Adikaram  
+  # **👋 Hi, I'm Thirandi Adikaram.**
+  
   <br><br>
   🚀 <b>Passionate IT Undergraduate | Quality Assurance Enthusiast | Full Stack Developer | UI/UX Designer</b>  
   <br>
