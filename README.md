@@ -1,11 +1,11 @@
-<p align="center">
-  ## 👋 **Hi, I'm Thirandi Adikaram.**
-  
-  <br><br>
-  🚀 <b>Passionate IT Undergraduate | Quality Assurance Enthusiast | Full Stack Developer | UI/UX Designer</b>  
-  <br>
-  💡 I enjoy building user-friendly applications, testing software for quality, and designing intuitive interfaces.
-</p>
+<div align="center">
+
+# 👋 **Hi, I'm Thirandi Adikaram.**
+
+🚀 **Passionate IT Undergraduate | Quality Assurance Enthusiast | Full Stack Developer | UI/UX Designer**  
+💡 I enjoy building user-friendly applications, testing software for quality, and designing intuitive interfaces.
+
+</div>
 
 ---
 
@@ -50,16 +50,4 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thirandi003&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thirandi003&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/thirandi-adikaram-a61615364)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](thirandiadikaram@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
-
----
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+![GitHub Stats](https://github-readme-stats.vercel.app/a)
