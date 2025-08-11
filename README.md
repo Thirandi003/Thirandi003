@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 **Second-year IT undergraduate at SLIIT**  
+- 🎓 IT undergraduate at SLIIT  
 - 💻 Skilled in **Web Development, Mobile App Development, and Quality Assurance Engineering**  
 - 🛠 Experienced in **UI/UX design** with Figma and responsive web apps with modern frameworks  
 - 📌 Love solving problems and improving user experiences  
