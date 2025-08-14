@@ -2,7 +2,7 @@
 
 # 👋 **Hi, I'm Thirandi Adikaram.**
 
-🚀 **Passionate IT Undergraduate | Quality Assurance Enthusiast | Full Stack Developer | UI/UX Designer**  
+🚀 **Passionate IT Undergraduate | Quality Assurance Enthusiast | Web Developer | UI/UX Designer**  
 💡 I enjoy building user-friendly applications, testing software for quality, and designing intuitive interfaces.
 
 </div>
